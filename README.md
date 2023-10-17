@@ -1,1 +1,1 @@
-# goit-js-finalproject
+# goit-js-hw-07
